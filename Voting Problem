@@ -3,7 +3,7 @@ Thankyou for showing interest in hacktoberfest
 Q)Make changes in the program to take input from the user?
 Here is a voting program that tells wether the user is eligible to vote or not
 a=19
-ifa>18:
+if a>18:
   print("Eligible To Vote")
 else:
   print("Not Eligible To Vote")
