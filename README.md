@@ -1,6 +1,7 @@
 # Voting-Problem
 This is a program written in python that tells wether a person is eligible to vote or not
-#Contributing
+
+# Contributing
 Hacktoberfest-2022
 
 Hey 👋 everyone , hacktoberfest is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022. What you need to do in this event? You need to generate 4 valid pull request and want to contribute in opensource
