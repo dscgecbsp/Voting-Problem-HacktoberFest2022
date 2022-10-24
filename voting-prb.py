@@ -1,0 +1,2 @@
+class voting:
+    def 
